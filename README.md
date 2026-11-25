@@ -1,7 +1,7 @@
 ### Welcome!!
 
 - 🔭 I'm a Full Stack Developer.
-- 🌱 I'm currently learning more about next.js.
+- 🌱 I am currently learning about system integrations with AI.
 - 📫 Contact: caiquefcavalheiro@gmail.com
 
 <div> 
